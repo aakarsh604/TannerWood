@@ -1,0 +1,39 @@
+{
+    "Trendings" : [
+            {
+                "id" : 1,
+                "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/Standard-Belt-Cognac-Front_360x.jpg?v=1648152491",
+                "name" : "Standard Belt - Cognac",
+                "brand" : "TANNER GOODS",
+                "price" : 9000
+            },
+            {
+                "id" : 2,
+                "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/Canyon-Crossbody-Green-Konbu-Front_360x.jpg?v=1631897400",
+                "name" : "Crossbody Pack - Olive Conbu",
+                "brand" : "TANNER GOODS",
+                "price" : 9500
+            },
+            {
+                "id" : 3,
+                "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/TG-Kestin-Granton-Shirt-Black_360x.jpg?v=1633977567",
+                "name" : "Granton Shirt",
+                "brand" : "KESTIN",
+                "price" : 8000
+            },
+            {
+                "id" : 4,
+                "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/bifold_natural_2015_thumb_01_ad8f5886-5713-4322-a77b-7979818fe9d2_360x.jpg?v=1595467603",
+                "name" : "Utility Bifold - Natural",
+                "brand" : "TANNER GOODS",
+                "price" : 6000
+            },
+            {
+                "id" : 5,
+                "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/Tanner-Goods-Titanium-Memori-Pen_360x.jpg?v=1629492893",
+                "name" : "Memori Mechanico - Titanium",
+                "brand" : "MAZAMA",
+                "price" : 7500
+            }
+    ]
+}

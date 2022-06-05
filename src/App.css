@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.imagebox {
+  max-height: 450px;
+  overflow: hidden;
+  position: relative;
+}
+.images{
+    position: relative;
+    max-height: initial;
+    bottom: 0px;
+}
