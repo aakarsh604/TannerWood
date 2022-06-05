@@ -11,7 +11,7 @@ const Footbar = () => {
         <Flex  fontSize="sm" gap="100px" mt="25px" fontWeight={600}>
           <Box cursor="pointer" _hover={{color: "maroon"}}><Link to="/aboutus">About Us</Link></Box>
           <Box cursor="pointer" _hover={{color: "maroon"}}><Link to="/contactus">Contact Us</Link></Box>
-          <Box cursor="pointer" _hover={{color: "maroon"}}>Support</Box>
+          <Box cursor="pointer" _hover={{color: "maroon"}}><Link to="/nosupport">Support</Link></Box>
           <Box cursor="pointer" _hover={{color: "maroon"}}>Shop</Box>
           <Box cursor="pointer" _hover={{color: "maroon"}}><Link to="/faq">FAQ</Link></Box>
           <Box cursor="pointer" _hover={{color: "maroon"}}>Careers</Box>

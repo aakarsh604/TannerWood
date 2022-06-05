@@ -35,5 +35,180 @@
                 "brand" : "MAZAMA",
                 "price" : 7500
             }
-    ]
+    ],
+
+    "Belts" : [
+        {
+            "id" : 1,
+            "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/Standard-Belt-Cognac-Front_720x.jpg?v=1648152491",
+            "name" : "Standard Belt - Cognac",
+            "brand" : "TANNER GOODS",
+            "price" : 9000
+        },
+        {
+            "id" : 2,
+            "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/Standard-Belt-Black-Front_360x.jpg?v=1648152389",
+            "name" : "Standard Belt - Black",
+            "brand" : "TANNER GOODS",
+            "price" : 9500
+        },
+        {
+            "id" : 3,
+            "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/Standard-Belt-Natural-Front_360x.jpg?v=1648152678",
+            "name" : "Standard Belt - Natural",
+            "brand" : "KESTIN",
+            "price" : 8000
+        },
+        {
+            "id" : 4,
+            "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/Standard-Belt-Saddle-Front_360x.jpg?v=1648152691",
+            "name" : "Standard Belt - Saddle Tan",
+            "brand" : "TANNER GOODS",
+            "price" : 6000
+        },
+        {
+            "id" : 5,
+            "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/tanner-goods-heritage-belt-cognac-thumb_6341e12d-b2b5-4b9c-99fc-9f3482895b36_360x.jpg?v=1629492911",
+            "name" : "Heritage Belt - Cognac",
+            "brand" : "MAZAMA",
+            "price" : 7500
+        },
+        {
+            "id" : 6,
+            "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/tanner-goods-heritage-belt-black-thumb_82ec5941-eb0a-490a-81de-b6147ff62a27_360x.jpg?v=1595702293",
+            "name" : "Heritage Belt - Black",
+            "brand" : "TANNER GOODS",
+            "price" : 6000
+        },
+        {
+            "id" : 7,
+            "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/tanner-goods-heritage-belt-natural-thumb_360x.jpg?v=1609958036",
+            "name" : "Heritage Belt - Natural",
+            "brand" : "TANNER GOODS",
+            "price" : 7000
+        },
+        {
+            "id" : 8,
+            "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/tanner-goods-heritage-belt-saddle-tan-thumb_1c78ae50-cb97-46e2-a266-921821d81f2d_360x.jpg?v=1629492999",
+            "name" : "Heritage Belt - Saddle Tan",
+            "brand" : "TANNER GOODS",
+            "price" : 6000
+        },
+        {
+            "id" : 9,
+            "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/tanner-goods-dress-belt-cognac-stainless-thumb_360x.jpg?v=1629493148",
+            "name" : "Dress Belt - Cognac",
+            "brand" : "TANNER GOODS",
+            "price" : 10000
+        },
+        {
+            "id" : 10,
+            "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/tanner-goods-dress-belt-black-stainless-thumb_360x.jpg?v=1629492900",
+            "name" : "Dress Belt - Black",
+            "brand" : "TANNER GOODS",
+            "price" : 12000
+        },
+        {
+            "id" : 11,
+            "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/TG-Classic-Belt-Saddle-Tan-Stainless-Thumb_360x.jpg?v=1648151360",
+            "name" : "Classic Belt - Saddle Tan",
+            "brand" : "TANNER GOODS",
+            "price" : 8000
+        },
+        {
+            "id" : 12,
+            "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/TG-Classic-Belt-Black-Stainless-Thumb-edit_360x.jpg?v=1648151008",
+            "name" : "Classic Belt - Black",
+            "brand" : "TANNER GOODS",
+            "price" : 12000
+        }
+],
+
+"Wallets" : [
+    {
+        "id" : 1,
+        "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/bifold_natural_2015_thumb_01_ad8f5886-5713-4322-a77b-7979818fe9d2_360x.jpg?v=1595467603",
+        "name" : "Utility Bifold - Natural",
+        "brand" : "TANNER GOODS",
+        "price" : 9000
+    },
+    {
+        "id" : 2,
+        "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/bifold_cognac_2015_thumb_01_d0c96c99-25be-4bae-9eab-297be4d54904_360x.jpg?v=1603228378",
+        "name" : "Utility Bifold - Cognac",
+        "brand" : "TANNER GOODS",
+        "price" : 9500
+    },
+    {
+        "id" : 3,
+        "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/bifold_black_2015_thumb_01_03a8f05a-aa7a-419d-a06d-18f959052dc7_360x.jpg?v=1595468339",
+        "name" : "Utility Bifold - Black",
+        "brand" : "KESTIN",
+        "price" : 8000
+    },
+    {
+        "id" : 4,
+        "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/bifold_saddle_tan_2015_thumb_6118db03-f8bd-485a-993e-d99d9f4301ac_360x.jpg?v=1595467175",
+        "name" : "Utility Bifold - Saddle Tan",
+        "brand" : "TANNER GOODS",
+        "price" : 6000
+    },
+    {
+        "id" : 5,
+        "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/journeyman_saddle_tan_2020_thumb_01_360x.jpg?v=1629492879",
+        "name" : "Journeyman - Saddle Tan",
+        "brand" : "MAZAMA",
+        "price" : 7500
+    },
+    {
+        "id" : 6,
+        "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/journeyman_black_2020_thumb_01_360x.jpg?v=1629492956",
+        "name" : "Journeyman - Black",
+        "brand" : "TANNER GOODS",
+        "price" : 6000
+    },
+    {
+        "id" : 7,
+        "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/journeyman_natural_2020_thumb_01_cd11fa34-61ce-4b05-91a5-adb690f2fd77_360x.jpg?v=1638303744",
+        "name" : "Journeyman - Golden",
+        "brand" : "TANNER GOODS",
+        "price" : 7000
+    },
+    {
+        "id" : 8,
+        "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/TG-Journeyman-Olive-Thumb_360x.jpg?v=1638517563",
+        "name" : "Journeyman - Olive",
+        "brand" : "TANNER GOODS",
+        "price" : 6000
+    },
+    {
+        "id" : 9,
+        "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/workman_natural_2015_thumb_046fdfe5-34a2-490d-ae8d-12ca2dbbb340_360x.jpeg?v=1597256031",
+        "name" : "Workman Wallet - Natural",
+        "brand" : "TANNER GOODS",
+        "price" : 10000
+    },
+    {
+        "id" : 10,
+        "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/workman_cognac_2015_thumb_43d9f426-1c38-4810-8b3e-1972397da1fc_360x.jpeg?v=1597256404",
+        "name" : "Workman Wallet - Cognac",
+        "brand" : "TANNER GOODS",
+        "price" : 12000
+    },
+    {
+        "id" : 11,
+        "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/workman_saddle_tan_2015_thumb_4d478bfe-cdad-4f28-bc91-676738227ef2_360x.jpeg?v=1597256365",
+        "name" : "Workman Wallet - Saddle Tan",
+        "brand" : "TANNER GOODS",
+        "price" : 8000
+    },
+    {
+        "id" : 12,
+        "url" : "https://cdn.shopify.com/s/files/1/0044/9802/products/workman_black_2015_thumb_499da740-57be-43a6-80f2-4e5a29ba0c3a_360x.jpeg?v=1597120345",
+        "name" : "Workman Wallet - Black",
+        "brand" : "TANNER GOODS",
+        "price" : 12000
+    }
+]
+
 }

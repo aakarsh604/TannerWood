@@ -3,6 +3,7 @@ import ShoppingBagOutlinedIcon from '@mui/icons-material/ShoppingBagOutlined';
 import PersonOutlineOutlinedIcon from '@mui/icons-material/PersonOutlineOutlined';
 import SearchOutlinedIcon from '@mui/icons-material/SearchOutlined';
 import {Flex, Spacer, Box} from "@chakra-ui/react"
+import {Link} from "react-router-dom";
 import {
   Menu,
   MenuButton,
@@ -19,7 +20,17 @@ const Navbar = () => {
         </Box>
         <Spacer/>
         <Flex gap="25px"> 
-              <Box fontSize="sm" fontWeight="bold" cursor="pointer" _hover={{color: "maroon"}}>Tanner Goods</Box>
+              <Box fontSize="sm" fontWeight="bold" cursor="pointer" _hover={{color: "maroon"}}>
+              <Menu>
+                      <MenuButton fontWeight="bold" >
+                        Tanner Goods
+                      </MenuButton>
+                      <MenuList>
+                        <MenuItem><Link to="/Belts">Belts</Link></MenuItem>
+                        <MenuItem><Link to="/Wallets">Wallets</Link></MenuItem>
+                      </MenuList>
+              </Menu>
+              </Box>
               <Box fontSize="sm" fontWeight="bold" cursor="pointer" _hover={{color: "maroon"}}>Mazama Wares</Box>
               <Box fontSize="sm" fontWeight="bold" cursor="pointer" _hover={{color: "maroon"}}>
               <Menu>
